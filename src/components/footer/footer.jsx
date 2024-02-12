@@ -121,16 +121,10 @@ const Footer = function () {
                   <div className="footer-menu">
                     <ul>
                       <li>
-                        <Link href="#">Enquiry Page</Link>
-                      </li>
-                      <li>
                         <Link href="/login">Login</Link>
                       </li>
                       <li>
                         <Link href="/register">Register</Link>
-                      </li>
-                      <li>
-                        <Link href="/my-account">My account</Link>
                       </li>
                       <li>
                         <Link href="#">Privecy Policy</Link>
